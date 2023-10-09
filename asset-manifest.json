@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/naru-77/react-ssr-app/static/js/main.beac1acf.js",
+    "index.html": "/naru-77/react-ssr-app/index.html",
+    "main.beac1acf.js.map": "/naru-77/react-ssr-app/static/js/main.beac1acf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.beac1acf.js"
+  ]
+}
