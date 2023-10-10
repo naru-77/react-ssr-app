@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-ssr-app/static/js/main.beac1acf.js",
+    "main.js": "/react-ssr-app/static/js/main.83908f69.js",
     "index.html": "/react-ssr-app/index.html",
-    "main.beac1acf.js.map": "/react-ssr-app/static/js/main.beac1acf.js.map"
+    "main.83908f69.js.map": "/react-ssr-app/static/js/main.83908f69.js.map"
   },
   "entrypoints": [
-    "static/js/main.beac1acf.js"
+    "static/js/main.83908f69.js"
   ]
 }
